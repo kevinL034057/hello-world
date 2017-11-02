@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hi I'm kevin
+I want to be a programmer
